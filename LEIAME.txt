@@ -1,9 +1,3 @@
-# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
-
-conda create --name dsaec1 python=3.13
-
-# Ative o ambiente:
-
 # Instale o pip e as dependências:
 
 conda install pip
