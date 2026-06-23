@@ -42,14 +42,11 @@ npm install
 
 ## Como Executar
 1. Clone o repositório
-```git clone https://github.com/lafontes/python-code-assistant.git](https://github.com/lafontes/Assistente-IA-Python
-```
+```git clone https://github.com/lafontes/python-code-assistant.git](https://github.com/lafontes/Assistente-IA-Python```
 2. Acesse a pasta do projeto
-```cd python-code-assistant
-```
+```cd python-code-assistant```
 3. Crie um ambiente virtual (opcional)
-```python -m venv venv
-```
+```python -m venv venv```
 4. Ative o ambiente virtual
 ```Windows:
 venv\Scripts\activate
