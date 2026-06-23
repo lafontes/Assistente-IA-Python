@@ -6,19 +6,19 @@ exemplos de código comentados e referências para documentação oficial.
 
 ## Funcionalidades
 
-Interface web desenvolvida com Streamlit.
-Integração com a API da Groq.
-Respostas especializadas em Python.
-Exemplos de código comentados.
-Referências para documentação oficial.
-Interface simples e intuitiva.
+Interface web desenvolvida com Streamlit.<br>
+Integração com a API da Groq.<br>
+Respostas especializadas em Python.<br>
+Exemplos de código comentados.<br>
+Referências para documentação oficial.<br>
+Interface simples e intuitiva.<br>
 
 ## Tecnologias Utilizadas
 
-Python
-Streamlit
-Groq API
-GPT OSS 20B
+Python <br>
+Streamlit<br>
+Groq API<br>
+GPT OSS 20B<br>
 
 ## Acesso a chave API KEY Groq
 ```https://console.groq.com/keys```
