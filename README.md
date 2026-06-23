@@ -42,27 +42,32 @@ npm install
 
 ## Como Executar
 1. Clone o repositório
-git clone https://github.com/lafontes/python-code-assistant.git
+```git clone https://github.com/lafontes/python-code-assistant.git](https://github.com/lafontes/Assistente-IA-Python
+```
 2. Acesse a pasta do projeto
-cd python-code-assistant
+```cd python-code-assistant
+```
 3. Crie um ambiente virtual (opcional)
-python -m venv venv
+```python -m venv venv
+```
 4. Ative o ambiente virtual
-Windows:
+```Windows:
 venv\Scripts\activate
-
-Linux/Mac:
+```
+```Linux/Mac:
 source venv/bin/activate
+```
 
 Inicie a aplicação com:
-streamlit run App.py
+```streamlit run App.py
+```
 
 ##Estrutura do Projeto
 
 src/
-├── LEIAME.txt/
-├── python_assistente.py/
-├── requirements.txt/
+├── LEIAME.txt/ <br>
+├── python_assistente.py/ <br>
+├── requirements.txt/ <br>
 
 ## Licença
 
