@@ -48,23 +48,18 @@ npm install
 3. Crie um ambiente virtual (opcional)
 ```python -m venv venv```
 4. Ative o ambiente virtual
-```Windows:
-venv\Scripts\activate
-```
-```Linux/Mac:
-source venv/bin/activate
-```
+Windows:
+```venv\Scripts\activate```
+
+Linux/Mac:
+```source venv/bin/activate```
 
 Inicie a aplicação com:
 ```streamlit run App.py```
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 src/
 ├── LEIAME.txt/ <br>
 ├── python_assistente.py/ <br>
 ├── requirements.txt/ <br>
-
-## Licença
-
-Este projeto está sob a licença MIT.
