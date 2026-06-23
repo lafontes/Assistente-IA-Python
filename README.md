@@ -20,6 +20,10 @@ Streamlit
 Groq API
 GPT OSS 20B
 
+## Acesso a chave API KEY Groq
+```https://console.groq.com/keys```
+Copiar chave API criada e usar dentro do Assistente Python.
+
 ## Instalação
 
 Clone o repositório:
