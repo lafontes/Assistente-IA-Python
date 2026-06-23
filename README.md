@@ -56,8 +56,7 @@ source venv/bin/activate
 ```
 
 Inicie a aplicação com:
-```streamlit run App.py
-```
+```streamlit run App.py```
 
 ##Estrutura do Projeto
 
